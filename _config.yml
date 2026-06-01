@@ -6,10 +6,9 @@ title: # laisser vide = affiche ton nom automatiquement
 first_name: Cheick
 middle_name: O.
 last_name: Diarra
-email: ton@email.fr
+email: cheickoumard7@gmail.com
 description: >
-  Docteur en Physique des Matériaux · ATER Université d'Orléans ·
-  Spécialisé DFT, ROKS, semi-conducteurs organiques ·
+  Computational Physics Researcher ·
   Open to Data Science & Academic positions
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with
