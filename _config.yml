@@ -7,14 +7,6 @@ first_name: Cheick
 middle_name: O.
 last_name: Diarra
 email: cheickoumard7@gmail.com
-# Ligne scholar — remplace Einstein par toi :
-scholar:
-  last_name: [Diarra]
-  first_name: [Cheick, C.]
-
-# Blog — personalise :
-blog_name: Cheick O. Diarra
-blog_description: Computational Physics & Data Science
 description: >
   Computational Physics Researcher ·
   Open to Data Science & Academic positions
