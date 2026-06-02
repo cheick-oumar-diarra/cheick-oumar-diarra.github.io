@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # laisser vide = affiche ton nom automatiquement
+title: blank # laisser vide = affiche ton nom automatiquement
 first_name: Cheick
 middle_name: O.
 last_name: Diarra
