@@ -16,5 +16,18 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
+@Article{D3CP00533J,
+author ="Diarra, Cheick Oumar and Boero, Mauro and Steveler, Emilie and Heiser, Thomas and Martin, Evelyne",
+title  ="Exciton diffusion in poly(3-hexylthiophene) by first-principles molecular dynamics",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2023",
+volume  ="25",
+issue  ="22",
+pages  ="15539-15546",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D3CP00533J",
+url  ="http://dx.doi.org/10.1039/D3CP00533J",
+abstract  ="Poly(3-hexylthiophene) (P3HT) is a polymer used in organic solar cells as a light absorber and an electron donor. Photogenerated excitons diffuse and dissociate into free charge carriers provided they reach the absorber boundaries. The device efficiency is therefore dependent on the exciton diffusion. Although measurements can be performed for example by time-resolved photoluminescence{,} a quantitative modeling is highly desirable to get an insight into the relationship between the atomic structure at finite temperature and the diffusion coefficient of the exciton. This is the objective of the present work{,} achieved by resorting to first-principles molecular dynamics in combination with the restricted open-shell approach to model the singlet excited state. The maximally localized Wannier functions and their centers are used to monitor and localize the electron and the hole along the dynamics. The resulting diffusion coefficient is in close agreement with available measurements."}
+
 
 </div>
