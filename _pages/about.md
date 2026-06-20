@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Orleans</a>. Château de la Source, 45100 Orléans. cheick-oumar.diarra@univ-orleans.fr.
+subtitle: <a href='https://www.univ-orleans.fr/'>University of Orleans</a>. Château de la Source, 45100 Orléans. cheick-oumar.diarra@univ-orleans.fr.
 
 profile:
   align: right
