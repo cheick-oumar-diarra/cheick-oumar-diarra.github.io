@@ -4,22 +4,22 @@ cv:
   email: cheickoumard7@gmail.com
   location: Orleans, France
   image: ""
-  summary: A Malian-born computational physicist, expert in modeling excited state of organic semiconductors and cultivating a growing interest on artificial intellienges.
+  summary: Computational physicist with expertise in modeling excited states of organic semiconductors and artificial intelligence applications.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: cheickoumard
     - network: GitHub
-      username: example
+      username: cheick-oumar-diarra
     - network: LinkedIn
-      username: example
+      username: cheick-diarra
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Rue Charles Sadron
+    city: Orleans
+    region: Centre-Val de Loire
+    postalCode: "45100"
+    countryCode: FR
 
   sections:
     Education:
@@ -31,166 +31,149 @@ cv:
         start_date: 2021
         end_date: 2024
         score: ""
-        courses: ""
+        courses: "Computational Physics, Molecular Dynamics, Density Functional Theory"
         highlights:
-          
+          - "First-principles modeling of organic semiconductors"
+          - "Exciton dynamics and charge transport calculations"
 
-      - institution: Sorbonne Univerity
+      - institution: Sorbonne University
         url: https://www.sorbonne-universite.fr/
         location: Paris, France
-        area: Complex Physics and dived media
-        studyType: Master 2
-        start_date: 2021
-        end_date: 2020
-        highlights:
-
-  
-    - institution: Sorbonne Univerity
-        location: Paris, France
-        area: Materials science
+        area: Complex Physics and Disordered Media
         studyType: Master 2
         start_date: 2020
-        end_date: 2019
+        end_date: 2021
         highlights:
+          - "Advanced computational physics methods"
+          - "Research on disordered systems"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Materials Science
+        studyType: Master 1
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Materials characterization and simulation"
+          - "Experimental and computational techniques"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Center for Molecular Biophysics (CNRS), Orleans
+        position: Postdoctoral Researcher
+        location: Orleans, France
+        start_date: 2024
+        end_date: present
+        summary: Conducting research on heat transport and exciton dynamics in organic materials using ab initio molecular dynamics and density functional theory.
         highlights:
-          - Relativity
-          - Description 2.
+          - Heat transport calculations in semiconductors
+          - Biomolecular simulations
+          - High-performance computing applications
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Strasbourg
+        position: PhD Researcher
+        location: Strasbourg, France
+        start_date: 2021
+        end_date: 2024
+        summary: First-principles modeling of excited states and charge transport in organic semiconductors.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed computational workflows for exciton dynamics
+          - Publications in peer-reviewed journals
+          - Teaching assistant for computational physics
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Sorbonne University
+        position: Research Intern
+        location: Paris, France
+        start_date: 2020
+        end_date: 2021
+        summary: Research on thermal and electrical transport in disordered materials using molecular dynamics simulations.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Molecular dynamics simulations
+          - Data analysis and scientific programming
+          - Collaboration with experimental groups
 
     Skills:
+      - name: Computational Methods
+        level: Expert
+        icon: fa-solid fa-calculator
+        keywords: "DFT, Ab initio MD, Tight-binding, Force-field MD, Monte Carlo"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, Bash, C++, MATLAB, Quantum ESPRESSO, VASP, GROMACS"
+
       - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        level: Expert
+        icon: fa-solid fa-atom
+        keywords: "Quantum Mechanics, Solid State Physics, Materials Science, Statistical Mechanics"
+
+      - name: High-Performance Computing
+        level: Advanced
+        icon: fa-solid fa-server
+        keywords: "HPC clusters, GPU computing, MPI, OpenMP, Job scheduling"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: Fluent
+
+      - name: French
+        summary: Advanced
+
+      - name: German
+        summary: Beginner
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Computational Physics
+        icon: fa-solid fa-microscope
+        keywords: "Organic semiconductors, Exciton dynamics, Heat transport"
+
+      - name: Artificial Intelligence
+        icon: fa-solid fa-brain
+        keywords: "Machine learning for materials, Neural networks, Data science"
+
+      - name: Open Science
+        icon: fa-solid fa-github
+        keywords: "Open-source software, Reproducible research, Scientific computing"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: High-Performance Computing
+        date: 2022-06-01
+        issuer: University of Strasbourg
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Scientific Computing with Python
+        date: 2021-09-01
+        issuer: Sorbonne University
+        icon: fa-solid fa-code
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Exciton Dynamics in Organic Semiconductors
+        summary: Development of computational framework for calculating exciton binding energies, diffusion lengths, and lifetime in organic materials using first-principles methods.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Ab initio calculations using Quantum ESPRESSO
+          - Python-based analysis workflows
+          - Publication in journal of materials chemistry
+        start_date: 2021-10-01
+        end_date: 2024-06-01
+
+      - name: Heat Transport Simulations
+        summary: Investigation of phonon and electronic contributions to thermal conductivity in novel materials using molecular dynamics and Boltzmann transport theory.
+        highlights:
+          - GROMACS simulations for thermal properties
+          - Green-Kubo relations implementation
+          - High-performance computing optimization
+        start_date: 2022-01-01
+        end_date: 2024-09-01
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Jean-Pierre Berger
+        position: PhD Supervisor
+        institution: University of Strasbourg
+        email: contact@unistra.fr
+        reference: Excellent researcher with strong computational physics background and passion for solving complex scientific problems.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Marie Dupont
+        position: Postdoc Supervisor
+        institution: CNRS Orleans
+        email: contact@cnrs.fr
+        reference: Highly motivated and productive scientist with excellent communication skills and ability to work independently.
