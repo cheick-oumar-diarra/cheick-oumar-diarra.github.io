@@ -1,18 +1,18 @@
 cv:
   name: Cheick O. DIARRA
-  label: Computational Physicist
+  label: Computational Physicist & Researcher
   email: cheickoumard7@gmail.com
   location: Orleans, France
   image: ""
-  summary: Computational physicist with expertise in modeling excited states of organic semiconductors and artificial intelligence applications.
+  summary: Computational physicist with expertise in first-principles modelling of exciton dynamics, heat transport in organic semiconductors, and biomolecular simulations. Currently a Teaching and Research Assistant (ATER) at the University of Orleans with strong background in ab initio molecular dynamics, DFT calculations, and high-performance computing.
 
   social_networks:
-    - network: X
-      username: cheickoumard
     - network: GitHub
       username: cheick-oumar-diarra
     - network: LinkedIn
       username: cheick-diarra
+    - network: ResearchGate
+      username: Cheick-Diarra
 
   address:
     street: Rue Charles Sadron
@@ -22,158 +22,309 @@ cv:
     countryCode: FR
 
   sections:
-    Education:
-      - institution: University of Strasbourg
-        location: Strasbourg, France
-        url: https://www.unistra.fr/
-        area: Physics
-        studyType: PhD
-        start_date: 2021
-        end_date: 2024
-        score: ""
-        courses: "Computational Physics, Molecular Dynamics, Density Functional Theory"
-        highlights:
-          - "First-principles modeling of organic semiconductors"
-          - "Exciton dynamics and charge transport calculations"
-
-      - institution: Sorbonne University
-        url: https://www.sorbonne-universite.fr/
-        location: Paris, France
-        area: Complex Physics and Disordered Media
-        studyType: Master 2
-        start_date: 2020
-        end_date: 2021
-        highlights:
-          - "Advanced computational physics methods"
-          - "Research on disordered systems"
-
-      - institution: Sorbonne University
-        location: Paris, France
-        area: Materials Science
-        studyType: Master 1
-        start_date: 2019
-        end_date: 2020
-        highlights:
-          - "Materials characterization and simulation"
-          - "Experimental and computational techniques"
-
     Experience:
-      - company: Center for Molecular Biophysics (CNRS), Orleans
-        position: Postdoctoral Researcher
-        location: Orleans, France
-        start_date: 2024
+      - company: Molecular Biophysics Centre (CBM)
+        position: Teaching and Research Assistant (ATER)
+        location: University of Orleans, France
+        start_date: 2025
         end_date: present
-        summary: Conducting research on heat transport and exciton dynamics in organic materials using ab initio molecular dynamics and density functional theory.
+        summary: Conducting research on protein dynamics and FRET processes in biomolecules. Teaching physics, mathematics, and scientific computing across multiple levels (L1–L3, M1 CAPES).
         highlights:
-          - Heat transport calculations in semiconductors
-          - Biomolecular simulations
-          - High-performance computing applications
+          - "Computational modelling of protein dynamics and biomolecular structure"
+          - "Investigation of Förster Resonance Energy Transfer (FRET) from ab initio perspective"
+          - "192h teaching load in physics, thermodynamics, mechanics, and scientific computing"
+          - "Supervise laboratory sessions and student projects"
 
-      - company: University of Strasbourg
-        position: PhD Researcher
-        location: Strasbourg, France
+      - company: ICube Laboratory
+        position: Doctoral Researcher
+        location: University of Strasbourg, France
         start_date: 2021
         end_date: 2024
-        summary: First-principles modeling of excited states and charge transport in organic semiconductors.
+        summary: First-principles molecular dynamics modelling of exciton transfer and heat transport in organic semiconductors. PhD project selected for ITI HiFunMat Doctoral Programme.
         highlights:
-          - Developed computational workflows for exciton dynamics
-          - Publications in peer-reviewed journals
-          - Teaching assistant for computational physics
+          - "Developed advanced numerical methods for exciton dynamics and thermal transport"
+          - "Characterized anisotropic thermal transport in organic semiconductors"
+          - "Performed CPMD simulations to model excitonic behaviour at atomic scale"
+          - "Developed custom Fortran package for data processing and workflow automation"
+          - "7 peer-reviewed publications and presentations at international conferences"
+          - "Collaborated with ADynMat and STELORG research networks"
 
-      - company: Sorbonne University
+      - company: Matter and Complex Systems Laboratory (MSC)
+        position: Research Intern
+        location: Sorbonne University, Paris, France
+        start_date: 2021
+        end_date: 2021
+        summary: In vitro study of dynamic reorganisation of plant-cell cytoskeletal structures in geometrically constrained microwells using microfluidics and fluorescence microscopy.
+        highlights:
+          - "Cultured and prepared plant cell samples"
+          - "Designed and fabricated photolithographic moulds for agar-based microwell arrays"
+          - "Applied microfluidic approaches for geometric constraints"
+          - "Processed microscopy images and analysed cytoskeletal dynamics"
+
+      - company: Institute of Nanoscience of Paris (INSP) & Saint-Gobain Research
         position: Research Intern
         location: Paris, France
         start_date: 2020
-        end_date: 2021
-        summary: Research on thermal and electrical transport in disordered materials using molecular dynamics simulations.
+        end_date: 2020
+        summary: DFT-based computational study of crystalline and electronic structural changes in lithium-doped tungsten trioxide for electrochromic applications.
         highlights:
-          - Molecular dynamics simulations
-          - Data analysis and scientific programming
-          - Collaboration with experimental groups
+          - "Conducted DFT and DFT+U calculations on WO3 structures"
+          - "Studied lithium intercalation effects on electronic and crystallographic properties"
+          - "Analysed oxygen-deficient Li:WO3−x systems"
+
+      - company: Institute of Nanoscience of Paris (INSP)
+        position: Research Intern
+        location: Paris, France
+        start_date: 2019
+        end_date: 2019
+        summary: Optical characterization of gallium arsenide quantum dots and calculation of electronic states.
+        highlights:
+          - "Performed photoluminescence excitation spectroscopy experiments"
+          - "Analysed atomic force microscopy images"
+          - "Calculated fundamental and excited states using Mathematica"
+
+      - company: SYRTE Department
+        position: Research Intern
+        location: Observatory of Paris, France
+        start_date: 2017
+        end_date: 2017
+        summary: Data analysis of meteorological measurements and correlation studies.
+        highlights:
+          - "Analysed correlations between meteorological observables"
+          - "Studied relationships between temperature, humidity, wind, and seeing conditions"
+
+    Education:
+      - institution: University of Strasbourg
+        location: Strasbourg, France
+        area: Physics and Materials for Energy
+        studyType: PhD
+        start_date: 2021
+        end_date: 2024
+        summary: "First-principles modelling of exciton dynamics and heat transport in organic semiconductors"
+        highlights:
+          - "ITI HiFunMat Doctoral Programme recipient"
+          - "Competitive PhD fellowship awarded"
+          - "Selected among top 10 PhD posters at doctoral school research day"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Complex Fluids and Dispersed Media
+        studyType: Master's Degree
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - "Specialization in soft matter physics and complex fluids"
+          - "Focus on dispersed systems and computational modelling"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Materials Science and Nanomaterials
+        studyType: Master's Degree
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Specialization in materials physics and nanomaterials"
+          - "Advanced computational modelling techniques"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Physics
+        studyType: Bachelor's Degree
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - "Foundation in physics and mathematical sciences"
 
     Skills:
-      - name: Computational Methods
-        level: Expert
-        icon: fa-solid fa-calculator
-        keywords: "DFT, Ab initio MD, Tight-binding, Force-field MD, Monte Carlo"
-
-      - name: Programming
-        level: Expert
-        icon: fa-solid fa-code
-        keywords: "Python, Bash, C++, MATLAB, Quantum ESPRESSO, VASP, GROMACS"
-
-      - name: Physics
+      - name: First-Principles Simulations
         level: Expert
         icon: fa-solid fa-atom
-        keywords: "Quantum Mechanics, Solid State Physics, Materials Science, Statistical Mechanics"
+        keywords: "DFT, DFT+U, AIMD, CPMD, Quantum ESPRESSO, electronic structure, ab initio methods"
+
+      - name: Programming & Scripting
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, Fortran, C++, Bash, SQL, Git, workflow automation"
 
       - name: High-Performance Computing
         level: Advanced
         icon: fa-solid fa-server
-        keywords: "HPC clusters, GPU computing, MPI, OpenMP, Job scheduling"
+        keywords: "GENCI clusters, Linux, batch-job workflows, parallel computing, MPI"
+
+      - name: Computational Physics
+        level: Expert
+        icon: fa-solid fa-microscope
+        keywords: "Exciton dynamics, thermal transport, molecular dynamics, heat transfer, organic semiconductors"
+
+      - name: Data Analysis & Visualization
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "Data cleaning, numerical analysis, visualization, machine learning, scikit-learn, TensorFlow"
+
+      - name: Experimental Techniques
+        level: Intermediate
+        icon: fa-solid fa-flask
+        keywords: "Photolithography, microfluidics, fluorescence microscopy, spectroscopy, AFM image analysis"
 
     Languages:
-      - name: English
-        summary: Fluent
-
       - name: French
-        summary: Advanced
+        summary: Native speaker
 
-      - name: German
-        summary: Beginner
+      - name: English
+        summary: Professional working proficiency
 
     Interests:
-      - name: Computational Physics
-        icon: fa-solid fa-microscope
-        keywords: "Organic semiconductors, Exciton dynamics, Heat transport"
+      - name: Computational Materials Science
+        icon: fa-solid fa-gem
+        keywords: "Organic semiconductors, exciton dynamics, thermal transport, DFT calculations"
 
-      - name: Artificial Intelligence
-        icon: fa-solid fa-brain
-        keywords: "Machine learning for materials, Neural networks, Data science"
+      - name: Biomolecular Simulations
+        icon: fa-solid fa-dna
+        keywords: "Protein dynamics, FRET processes, ab initio methods, molecular modelling"
 
-      - name: Open Science
-        icon: fa-solid fa-github
-        keywords: "Open-source software, Reproducible research, Scientific computing"
+      - name: Scientific Computing
+        icon: fa-solid fa-laptop
+        keywords: "High-performance computing, workflow automation, data analysis, open science"
 
-    Certificates:
-      - name: High-Performance Computing
-        date: 2022-06-01
-        issuer: University of Strasbourg
-        icon: fa-solid fa-certificate
+    Honors:
+      - title: Qualification for Associate Professor
+        summary: "Qualified for Associate Professor positions in France, CNU Section 28 – Computer Science (2025)"
 
-      - name: Scientific Computing with Python
-        date: 2021-09-01
-        issuer: Sorbonne University
-        icon: fa-solid fa-code
+      - title: ITI HiFunMat Doctoral Programme
+        summary: "Selected for competitive doctoral programme through rigorous admission process"
 
-    Projects:
-      - name: Exciton Dynamics in Organic Semiconductors
-        summary: Development of computational framework for calculating exciton binding energies, diffusion lengths, and lifetime in organic materials using first-principles methods.
-        highlights:
-          - Ab initio calculations using Quantum ESPRESSO
-          - Python-based analysis workflows
-          - Publication in journal of materials chemistry
-        start_date: 2021-10-01
-        end_date: 2024-06-01
+      - title: Doctoral Research Funding
+        summary: "Awarded competitive PhD fellowship after selection"
 
-      - name: Heat Transport Simulations
-        summary: Investigation of phonon and electronic contributions to thermal conductivity in novel materials using molecular dynamics and Boltzmann transport theory.
-        highlights:
-          - GROMACS simulations for thermal properties
-          - Green-Kubo relations implementation
-          - High-performance computing optimization
-        start_date: 2022-01-01
-        end_date: 2024-09-01
+      - title: Research Poster Recognition
+        summary: "Selected among top 10 PhD posters for presentation at doctoral school research day"
+
+    Publications:
+      - title: "Intermediate Range Order in Liquid GeSe2: Known Facts and Elusive Issues Revisited by Combining First-Principles and Million Atoms Machine-Learning Calculations"
+        authors:
+          - S. D. Wansi Wendji
+          - C. Massobrio
+          - M. Boero
+          - A. Bouzid
+          - C. O. Diarra
+          - et al.
+        publisher: "The Journal of Physical Chemistry Letters"
+        releaseDate: 2026-04-15
+        url: "https://doi.org/10.1021/acs.jpclett.6c00322"
+        summary: "Study of intermediate range order in GeSe2 using first-principles and machine learning methods (17(14), 4008–4015)"
+
+      - title: "Thermal conductivities of amorphous SiO2 films by approach-to-equilibrium molecular dynamics"
+        authors:
+          - L. Petit
+          - C. O. Diarra
+          - A. Lambrecht
+          - M. Boero
+          - E. Martin
+        publisher: "Solid State Sciences"
+        releaseDate: 2026-01-01
+        url: "https://doi.org/10.1016/j.solidstatesciences.2026.108262"
+        summary: "Computational study of thermal conductivity in amorphous SiO2 films using MD simulations (175, 108262)"
+
+      - title: "On the crystallization tendency of amorphous Sb2S3 under pressure: A first-principles molecular dynamics study"
+        authors:
+          - L. Petit
+          - J. Taillieu
+          - C. Massobrio
+          - C. O. Diarra
+          - A. Lambrecht
+          - M. Boero
+          - E. Martin
+        publisher: "Solid State Sciences"
+        releaseDate: 2026-01-01
+        url: "https://doi.org/10.1016/j.solidstatesciences.2026.108325"
+        summary: "First-principles study of Sb2S3 crystallization under pressure (177, 108325)"
+
+      - title: "Exciton radiative lifetime and diffusion length from first-principles atomic trajectories: Method assessment for P3HT"
+        authors:
+          - C. O. Diarra
+          - J. Taillieu
+          - M. Boero
+          - T. Heiser
+          - E. Martin
+        publisher: "The Journal of Physical Chemistry B"
+        releaseDate: 2025-08-28
+        url: "https://doi.org/10.1021/acs.jpcb.5c04516"
+        summary: "Development of method for calculating exciton properties from ab initio MD in P3HT (129(34), 8832–8840)"
+
+      - title: "Heat transfer through covalent versus non-covalent bonding: A case study on crystalline π-conjugated P3HT polymer using approach-to-equilibrium molecular dynamics"
+        authors:
+          - C. O. Diarra
+          - C. Massobrio
+          - E. Martin
+        publisher: "Physical Chemistry Chemical Physics"
+        releaseDate: 2025-05-14
+        url: "https://doi.org/10.1039/D5CP02084K"
+        summary: "Computational investigation of heat transfer mechanisms in P3HT polymer (27, 18487–18495)"
+
+      - title: "On the actual difference between the Nosé and the Nosé-Hoover thermostats: A critical review of canonical temperature control by molecular dynamics"
+        authors:
+          - C. Massobrio
+          - I. A. Essomba
+          - M. Boero
+          - C. Diarra
+          - M. Guerboub
+          - et al.
+        publisher: "Physica Status Solidi B"
+        releaseDate: 2023-04-01
+        url: "https://doi.org/10.1002/pssb.202300209"
+        summary: "Critical review of thermostat implementations in molecular dynamics simulations (261, 2300209)"
+
+      - title: "Exciton diffusion in poly(3-hexylthiophene) by first-principles molecular dynamics"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Steveler
+          - T. Heiser
+          - E. Martin
+        publisher: "Physical Chemistry Chemical Physics"
+        releaseDate: 2023-05-10
+        url: "https://doi.org/10.1039/D3CP00533J"
+        summary: "CPMD study of exciton diffusion mechanisms in P3HT for organic solar cells (25, 15539–15546)"
+
+    Conferences:
+      - title: "A computational approach for exciton diffusion in organic solar cells based on first principles"
+        authors:
+          - C. O. Diarra
+          - E. Martin
+        date: 2023-06-01
+        location: "E-MRS Spring Meeting, Strasbourg, France"
+        summary: "Oral presentation at Symposium P: Computations for Materials, May 29 – June 2, 2023"
+
+      - title: "First-principles molecular dynamics modelling of exciton transfer in organic semiconductors"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Martin
+        date: 2023-10-17
+        location: "French Photonics Days, 5th Edition, Strasbourg, France"
+        summary: "Poster presentation, October 17–18, 2023"
+
+      - title: "Ab initio molecular dynamics modelling of excitonic transport in organic semiconductors"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Martin
+        date: 2022-12-05
+        location: "SPIC 2022 — Science and Technology of Pi-Conjugated Systems, Saint-Malo, France"
+        summary: "Poster presentation, December 5–8, 2022"
 
     References:
-      - name: Dr. Jean-Pierre Berger
+      - name: Dr. Evelyne Martin
         position: PhD Supervisor
-        institution: University of Strasbourg
-        email: contact@unistra.fr
-        reference: Excellent researcher with strong computational physics background and passion for solving complex scientific problems.
+        institution: ICube Laboratory, University of Strasbourg
+        reference: "Expert supervisor in computational materials science with strong mentorship in first-principles methods and research autonomy."
 
-      - name: Dr. Marie Dupont
-        position: Postdoc Supervisor
-        institution: CNRS Orleans
-        email: contact@cnrs.fr
-        reference: Highly motivated and productive scientist with excellent communication skills and ability to work independently.
+      - name: Dr. Pauline Durand
+        position: Research Mentor
+        institution: Matter and Complex Systems Laboratory, Sorbonne University
+        reference: "Collaborative supervisor providing expertise in experimental biophysics and interdisciplinary research approaches."
+
+      - name: Dr. Fabio Finocchi
+        position: Research Mentor
+        institution: Institute of Nanoscience of Paris
+        reference: "Experienced researcher in DFT calculations and computational materials characterization."
